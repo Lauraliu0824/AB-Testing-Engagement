@@ -47,4 +47,3 @@ Also, it seems like each browser responded differently to the test. IE, Chrome, 
 ## Result
 Ater removing one issue browser, the rest of the data points shows the program did increase the pageview per session by 0.09. However, this increase is very small and it is not even one pageview, I will talk with the product manager and the engineer to see if it is even worth to launch.
     
-* Any problem on the UI of Opera brower during the test?
